@@ -1,4 +1,5 @@
 .vscode
 recipe*.json
+recipe*.csv
 __pycache__
 data copy
